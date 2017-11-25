@@ -1,3 +1,3 @@
 function inc(n) {
-  return += 1;
+  number += 1;
 }
